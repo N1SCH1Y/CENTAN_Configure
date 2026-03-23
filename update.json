@@ -3,8 +3,9 @@
     {
       "name": "CENTAN_Configure",
       "version": "0.1.3",
+      "platform": "windows",
       "url": "https://github.com",
-      "changelog": "https://github.com"
+      "changelog": "Исправлена ошибка платформы!"
     }
   ]
 }
