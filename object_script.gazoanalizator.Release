@@ -1,0 +1,15 @@
+release/Updater.o
+release/Downloader.o
+release/QSimpleUpdater.o
+release/AuthenticateDialog.o
+release/allfunc.o
+release/main.o
+release/mainthread.o
+release/mainwindow.o
+release/waitingcert.o
+release/qrc_qsimpleupdater.o
+release/moc_AuthenticateDialog.o
+release/moc_allfunc.o
+release/moc_mainthread.o
+release/moc_mainwindow.o
+release/moc_waitingcert.o
