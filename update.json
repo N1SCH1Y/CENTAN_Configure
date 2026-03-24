@@ -4,7 +4,7 @@
             "changelog": "Добавлена функция автоматического обновления через GitHub.",
             "download-url": "https://github.com/N1SCH1Y/CENTAN_Configure/releases/download/Release/GSM_Configure.zip",
             "latest-version": "0.1.5",
-            "mandatory-update": true,
+            "mandatory-update": false,
             "open-url": ""
         }
     }
