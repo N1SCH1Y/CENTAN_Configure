@@ -1,11 +1,11 @@
 {
     "updates": {
         "windows": {
-            "changelog": "Исправлены ошибки с отправкой команд.\nДобавлен терминал, для отслеживания данных.\nДобавлено логирование устройства."
-            "download-url": "https://github.com/N1SCH1Y/CENTAN_Configure/releases/download/0.1.6/CENTAN_Configurator.zip",
+            "open-url": "",
             "latest-version": "0.1.6",
-            "mandatory-update": true,
-            "open-url": ""
+            "download-url": "https://github.com/N1SCH1Y/CENTAN_Configure/releases/download/0.1.6/CENTAN_Configurator.zip",            
+            "changelog": "Исправлены ошибки с отправкой команд.\nДобавлен терминал, для отслеживания данных.\nДобавлено логирование устройства.",        
+            "mandatory-update": true            
         }
     }
 }
